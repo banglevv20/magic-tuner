@@ -3,8 +3,9 @@
     "versionCode": 32,
     "versionName": "1.9.0",
     "changelog": [
-      "Better FPS detection",
-      "Improved UI layout"
+      "Fix bug fps",
+      "Update UI mode tweak",
+      "Support Android 14"
     ]
   }
 }
