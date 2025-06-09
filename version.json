@@ -1,11 +1,9 @@
 {
-  "latest": {
-    "versionCode": 32,
-    "versionName": "1.9.0",
+    "version": 190,
+    "versionCode": "32",
     "changelog": [
       "Better FPS detection",
       "Improved UI layout",
       "Fixed background execution bug"
     ]
-  }
 }
