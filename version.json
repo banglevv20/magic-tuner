@@ -1,5 +1,11 @@
 {
-  "latest_version_code": 31,
-  "latest_version_name": "1.8.3.20250609 vortex",
-  "changelog": "• Improved FPS sync\n• Added new performance mode\n• Bug fixes"
+  "latest": {
+    "versionCode": 32,
+    "versionName": "1.9.0",
+    "changelog": [
+      "Better FPS detection",
+      "Improved UI layout",
+      "Fixed background execution bug"
+    ]
+  }
 }
