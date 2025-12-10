@@ -75,3 +75,5 @@ Android API documentation © [Google](https://developer.android.com)
 Magisk root environment © [topjohnwu](https://github.com/topjohnwu/Magisk)  
 Shizuku service © [RikkaApps](https://shizuku.rikka.app/)
 
+
+**Note:** This project is closed-source. Documentation only.
