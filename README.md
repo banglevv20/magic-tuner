@@ -1,6 +1,6 @@
 <h1 align="center">Magic Tuner</h1>
 
-  ![20251210_185120](https://github.com/user-attachments/assets/e9bcd726-76e5-4506-9463-f7549ec1732c)
+  ![magictuner](https://github.com/user-attachments/assets/1cc27f23-6f84-449c-99a6-afe218144339)
 
 ## <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Google_Play_Store_badge_EN.svg/120px-Google_Play_Store_badge_EN.svg.png" width="60"> [Download Magic Tuner](https://play.google.com/store/apps/details?id=com.levv.gametuner&pcampaignid=web_share)
 
