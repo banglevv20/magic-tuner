@@ -44,7 +44,7 @@ An Addon is packaged as a `.zip` file containing optional components such as:
 
 ### Auto-Run Behavior
 When the application enters the foreground, Magic Tuner scans all installed addons and executes
-their `customize` scripts (`global.sh`, `system.sh`, `secure.sh`, `props.sh`, `database.sh`) in silent mode.
+their `customize` scripts (~~`global.sh`~~, ~~`system.sh`~~, ~~`secure.sh`~~, `props.sh`, `database.sh`) in silent mode.
 This enables persistent tweaks without user interaction.
 
 ### Purpose of the Addon System
